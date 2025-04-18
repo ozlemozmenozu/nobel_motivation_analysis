@@ -1,7 +1,7 @@
 # ============================== #
 # Nobel Peace & Economics Prize Thematic Analysis (1990–2024)
 # Author: Özlem Özmen
-# Project: IR 421 Final
+# Project: Koç TCSS Conference
 # Description: Text, network, and time-series analysis of Nobel Prize justifications
 # ============================== #
 
